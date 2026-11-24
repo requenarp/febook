@@ -1,7 +1,7 @@
 # FéBook — Presentación interactiva
 
 Defensa del proyecto **"Sistema de Información de una Plataforma de Red Social 'FeBook', para la Iglesia Cristiana Fuente de Vida"**
-Comunidad de Marizapa, Parroquia Caucagua, Municipio Acevedo — Proyecto Tecnológico III, UPTBAL.
+Comunidad de Marizapa, Parroquia Caucagua, Municipio Acevedo — Proyecto Tecnológico IV, UPTBAL.
 
 Integrantes: Ronald Requena, Jarris Guerra, Donald Molina. Profesor: Ing. Juan García.
 
